@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
+    <id>ShadowCore</id>
+    <version>1.0.0</version>
+    <title>Shadow Core</title>
     <authors>Erik Skoglund</authors>
     <owners>Erik Skoglund</owners>
-    <licenseUrl></licenseUrl>
-    <projectUrl></projectUrl>
-    <iconUrl></iconUrl>
+    <licenseUrl>https://github.com/eriksk/shadowcore/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/eriksk/shadowcore</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>Dependency inclusion control</description>
     <releaseNotes>Initial release</releaseNotes>
     <copyright>Copyright Erik Skoglund 2016</copyright>
     <tags>Dependency Shadow</tags>
